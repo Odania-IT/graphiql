@@ -1,0 +1,14 @@
+{
+  "name": "graphiql",
+  "version": "1.0.0",
+  "description": "GraphiQL Api",
+  "main": "index.js",
+  "repository": "git@github.com:Odania-IT/graphiql.git",
+  "author": "Mike Petersen <mike@odania-it.de>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql": "^14.4.2",
+    "graphql-server-express": "^1.4.1"
+  }
+}
